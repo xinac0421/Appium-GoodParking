@@ -1,0 +1,31 @@
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
+
+#maven ignore
+target/
+
+#svn ignore
+.svn/
+
+# Android Studio
+*.iml
+.idea/
+gradle/
+
+# other
+.vscode/

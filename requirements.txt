@@ -1,0 +1,5 @@
+selenium==3.8.1
+xlrd==1.1.0
+Appium_Python_Client==0.47
+ddt==1.2.1
+xlutils==2.0.0
